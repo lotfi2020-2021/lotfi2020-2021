@@ -86,18 +86,7 @@ Full Stack Software Engineer passionate about building robust, scalable, and hig
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white" />
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark&hide_border=false" alt="Streak" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages" height="180" />
-</p>
 
 <p align="center">
   <em>Proudly created with ❤️ using GPRM & Shields.io</em>
